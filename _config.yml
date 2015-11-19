@@ -75,6 +75,20 @@ sidebar: post
 #sidebar: remove
 
 
+# Social links
+# social:
+  #GitHub:
+  #Others:
+
+# Social Icons
+social_icons:
+  enable: true
+  # Icon Mappings
+  GitHub: github
+  Twitter: twitter
+  Weibo: weibo
+
+
 # Sidebar Avatar
 #avatar:
 
@@ -202,8 +216,7 @@ facebook_sdk:
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
 #! ---------------------------------------------------------------
 
-
-# Use velocity to animate everything.
+# Motion
 use_motion: true
 
 # Fancybox
